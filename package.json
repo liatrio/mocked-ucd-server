@@ -1,0 +1,22 @@
+{
+  "name": "mocked-ucd-server",
+  "version": "1.0.0",
+  "description": "Mocking server for Urban code deploy",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liatrio/mocked-ucd-server.git"
+  },
+  "keywords": [
+    "ucd"
+  ],
+  "author": "Benjamin Stein",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/liatrio/mocked-ucd-server/issues"
+  },
+  "homepage": "https://github.com/liatrio/mocked-ucd-server"
+}
