@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/liatrio/mocked-ucd-server",
   "dependencies": {
+    "express": "^4.13.4",
     "mocha": "2.4.5"
   }
 }
