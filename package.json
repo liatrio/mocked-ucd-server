@@ -4,7 +4,7 @@
   "description": "Mocking server for Urban code deploy",
   "main": "app.js",
   "scripts": {
-    "test": "mocha "
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/liatrio/mocked-ucd-server/issues"
   },
-  "homepage": "https://github.com/liatrio/mocked-ucd-server"
+  "homepage": "https://github.com/liatrio/mocked-ucd-server",
+  "dependencies": {
+    "mocha": "2.4.5"
+  }
 }
